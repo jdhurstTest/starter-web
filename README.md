@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 New Copyright blahblah
 
 ## Blah Blah
-Rebasing example. Another line for Rebasing
+ Another line for Rebasing
